@@ -1,4 +1,4 @@
-# autoForPhotoStudio
+# detayFolderScript
 A script that manages folders for photo studios
 
 This script creates folders under two main folders. One of those main folders is DAILY, under daily folders photographers upload their pictures according to month, day, and place information and if they have a special photoshoot they have a folder called by the photographer's name under the day folder. The other main folder is PRINT, under the PRINT file there is a month folder, and under that folder with date information. When a cashier sells some pictures he/she creates a new folder called the customer's room number under the date folder and puts the pics that have been sold to that customer in a folder.
